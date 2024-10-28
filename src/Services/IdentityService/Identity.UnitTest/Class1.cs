@@ -1,4 +1,4 @@
-﻿namespace Identity.Domain
+﻿namespace Identity.UnitTest
 {
     public class Class1
     {
